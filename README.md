@@ -1,6 +1,6 @@
 # Pay de Limón
 
-[alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vvsupremo.com%2Fwp-content%2Fuploads%2F2017%2F11%2FLime-Tart-Recipe-2.png&tbnid=5pB1rMlvhXzeLM&vet=12ahUKEwiugozho6P_AhX94ckDHaBDCzQQMygBegUIARDXAQ..i&imgrefurl=https%3A%2F%2Fwww.vvsupremo.com%2Frecipe%2Fpay-de-limon%2F%3Flang%3Des&docid=-tql3BdR1mKfNM&w=1200&h=1200&q=pay%20de%20limon%20png&ved=2ahUKEwiugozho6P_AhX94ckDHaBDCzQQMygBegUIARDXAQ)
+<img src="https://i.blogs.es/396729/como-hacer-carlota-pay-de-limon-1-/450_1000.jpg" alt="mi pay" />
 
 Receta para una tartera circular de 25 x 5 cm.
 
@@ -50,3 +50,5 @@ Receta para una tartera circular de 25 x 5 cm.
 * Batir las claras e ir incorporando el azúcar y una cucharadita de cremor tártaro, hasta lograr un punto nieve.
 * Con una manga, aplicar sobre la superficie de la crema. La crema ya debe estar fría para que tenga algo de rigidez, si no, será complicado aplicar el merengue.
 * Encender de nuevo el horno al mínimo, poniendo la tarta en una bandeja lo más alta posible, para que el calor ascendente seque el merengue y no cocine demasiado la masa.
+
+
