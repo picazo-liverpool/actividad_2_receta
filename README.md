@@ -51,4 +51,4 @@ Receta para una tartera circular de 25 x 5 cm.
 * Con una manga, aplicar sobre la superficie de la crema. La crema ya debe estar fría para que tenga algo de rigidez, si no, será complicado aplicar el merengue.
 * Encender de nuevo el horno al mínimo, poniendo la tarta en una bandeja lo más alta posible, para que el calor ascendente seque el merengue y no cocine demasiado la masa.
 
-
+### NOTA: Para una preparacion mas culinaria adherir saborizante natural al gusto
