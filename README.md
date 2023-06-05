@@ -26,9 +26,9 @@ Receta para una tartera circular de 25 x 5 cm.
 * 3 yemas
 * 200g de azúcar
 * 400ml de agua tibia
-* ralladura de cáscara de un limón
+* Ralladura de cáscara de un limón
 * 30g manteca derretida
-* jugo de 2 limones
+* Jugo de 2 limones
 ### Preparación
 * En un jarro de un litro o un poco más, mezclar las yemas, azúcar, manteca, e ir incorporando harina progresivamente, revolviendo con una cuchara de madera.
 * Agregar de a poco la ralladura, jugo de limón y agua, mientras revolvemos. No deben quedar grumos.
