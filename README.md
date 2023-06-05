@@ -21,14 +21,14 @@ Receta para una tartera circular de 25 x 5 cm.
 
 ## Crema
 ### Ingredientes
-* 80g de harina 0000
-* 20g de fécula de maíz
-* 3 yemas
-* 200g de azúcar
-* 400ml de agua tibia
-* Ralladura de cáscara de un limón
-* 30g manteca derretida
-* Jugo de 2 limones
+* 80g de harina 0000.
+* 20g de fécula de maíz.
+* 3 yemas.
+* 200g de azúcar.
+* 400ml de agua tibia.
+* Ralladura de cáscara de un limón.
+* 30g manteca derretida.
+* Jugo de 2 limones.
 ### Preparación
 * En un jarro de un litro o un poco más, mezclar las yemas, azúcar, manteca, e ir incorporando harina progresivamente, revolviendo con una cuchara de madera.
 * Agregar de a poco la ralladura, jugo de limón y agua, mientras revolvemos. No deben quedar grumos.
